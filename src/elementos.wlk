@@ -1,3 +1,13 @@
+/*class Stock {
+    var elemento
+    var cantidad
+}
+
+
+object ladrillo
+object canio
+*/
+
 object ladrillos{
     var property cantidad = 0
 }
